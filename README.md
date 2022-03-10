@@ -5,6 +5,7 @@ kiosk_python system
 
 
 * 시스템 흐름도
+
 ![kiosk](https://user-images.githubusercontent.com/54919484/157667868-5303a9e3-ea12-4f82-8bc3-4ce2f94dd926.png)
 
 
